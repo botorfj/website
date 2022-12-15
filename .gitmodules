@@ -1,0 +1,3 @@
+[submodule "themes/botorfj"]
+	path = themes/botorfj
+	url = https://github.com/botorfj/hugo-theme-shell
