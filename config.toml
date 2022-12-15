@@ -1,4 +1,4 @@
 baseURL = 'https://botorfj.github.io/website/'
 languageCode = 'en-us'
 title = "botorfj's personal homepage!" 
-theme = "hugo-theme-shell"
+theme = "botorfj"
